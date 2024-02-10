@@ -72,22 +72,27 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
 ***
 
 ✔️ Projects: 
-- Rasterization project estimated effort 2 hrs: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment2) 
-  - Press 1 for line test, press 2 for  triangle test, press m for reference.
-- Interpolation using Barycentric Coordinates, estimated effort 4 hrs: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment3)
-  - Pressing the "1" key will bring up the transformation portion.
-  - Pressing the "2" key will bring up the interpolation portion.
-- Tessallation project: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment4/assn4-tessellation.html)
-  - Functionality explained in the project page itself.
-- Textures project: [Link here](https://ashwathhalemane.github.io/csci610-assn7/assn7-textures.html)
-- Worked on various project in Computer vision ranging from Image manipulation, contrast enhancement, color segmentation and exploration, convolution, mahalanbis distance classification.
-  - Worked on 2 mini-projects involving:
-    - Cartoon filter for instagram.
-    - Dice counting program involving unclear images.
-  - Worked on a big project using 2240 images of Cotton field cultivation using Deep Learning techniques to classify them under 4 types of irrigation. 
-  - Code for all the above can be found under my github repos: [Link here](https://github.com/ashwathhalemane/CSCI-631-Computer-Vision)
-
-***
+- Academic Projects: 
+  - Rasterization project estimated effort 2 hrs: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment2) 
+    - Press 1 for line test, press 2 for  triangle test, press m for reference.
+  - Interpolation using Barycentric Coordinates, estimated effort 4 hrs: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment3)
+    - Pressing the "1" key will bring up the transformation portion.
+    - Pressing the "2" key will bring up the interpolation portion.
+  - Tessallation project: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment4/assn4-tessellation.html)
+    - Functionality explained in the project page itself.
+  - Textures project: [Link here](https://ashwathhalemane.github.io/csci610-assn7/assn7-textures.html)
+  - Worked on various project in Computer vision ranging from Image manipulation, contrast enhancement, color segmentation and exploration, convolution, mahalanbis distance classification.
+    - Worked on 2 mini-projects involving:
+      - Cartoon filter for instagram.
+      - Dice counting program involving unclear images.
+    - Worked on a big project using 2240 images of Cotton field cultivation using Deep Learning techniques to classify them under 4 types of irrigation. 
+    - Code for all the above can be found under my github repos: [Link here](https://github.com/ashwathhalemane/CSCI-631-Computer-Vision)
+- Personal Projects:
+  - MEAN stack projects including a front-end blogging application in Angular can be found [here](https://github.com/ashwathhalemane/Angular-7-Blog-App-)
+  - Backend API for the above mentioned front-end can be found [here](https://github.com/ashwathhalemane/REST-API-Blog-app)
+  - You can find some of my exploration in the realm of cybersecurity [here](https://github.com/ashwathhalemane/hacking-exercise), where I've engaged with diverse Capture The Flag (CTF) competitions, hacking challenges from platforms like HackTheBox, CTFlearn, rootme and developed custom tools tailored for these challenges.
+  - In the past, I was involved in crafting an Android application for a friend's college business, serving as an online catalog. You can explore it [here](https://play.google.com/store/apps/details?id=com.tattooswag.ashwath.newtattooswag).
+**/*
 
 ✔️ Github Profile: 
 - [Link](https://github.com/ashwathhalemane)
