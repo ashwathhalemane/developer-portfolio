@@ -88,11 +88,12 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
     - Worked on a big project using 2240 images of Cotton field cultivation using Deep Learning techniques to classify them under 4 types of irrigation. 
     - Code for all the above can be found under my github repos: [Link here](https://github.com/ashwathhalemane/CSCI-631-Computer-Vision)
 - Personal Projects:
-  - MEAN stack projects including a front-end blogging application in Angular can be found [here](https://github.com/ashwathhalemane/Angular-7-Blog-App-)
-  - Backend API for the above mentioned front-end can be found [here](https://github.com/ashwathhalemane/REST-API-Blog-app)
+  - MEAN stack projects including a front-end blogging application in Angular can be found [here](https://github.com/ashwathhalemane/Angular-7-Blog-App-).
+  - Backend API for the above mentioned front-end can be found [here](https://github.com/ashwathhalemane/REST-API-Blog-app).
   - You can find some of my exploration in the realm of cybersecurity [here](https://github.com/ashwathhalemane/hacking-exercise), where I've engaged with diverse Capture The Flag (CTF) competitions, hacking challenges from platforms like HackTheBox, CTFlearn, rootme and developed custom tools tailored for these challenges.
   - In the past, I was involved in crafting an Android application for a friend's college business, serving as an online catalog. You can explore it [here](https://play.google.com/store/apps/details?id=com.tattooswag.ashwath.newtattooswag).
-**/*
+
+***
 
 ✔️ Github Profile: 
 - [Link](https://github.com/ashwathhalemane)
