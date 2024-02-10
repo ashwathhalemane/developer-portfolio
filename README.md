@@ -30,14 +30,14 @@ Computer graphics openGL,
 Computer vision: MATLAB, Deep Learning in CV, 
 proficient in GIT, Docker, K8s, Jira etc... 
 
-✔️ Education: \
+✔️ Education: 
 MS in Computer Science, minor in Data Science, Rochester Institute of Technology, May 2024
 
-✔️ Work Experience: \
+✔️ Work Experience: 
 - Worked as Application Security Engineer Intern at Infinitus Systems(2X), an AI startup at Silicon Valley, May 2022-Aug 2022, May 2023-Aug 2023
 - Worked as Senior Software Engineer at CGI Global, Bangalore, 2017-2021
 
-✔️ Projects: \
+✔️ Projects: 
 - Rasterization project estimated effort 2 hrs: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment2) 
   - Press 1 for line test, press 2 for  triangle test, press m for reference.
 - Interpolation using Barycentric Coordinates, estimated effort 4 hrs: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment3)
@@ -53,7 +53,7 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
   - Worked on a big project using 2240 images of Cotton field cultivation using Deep Learning techniques to classify them under 4 types of irrigation. 
   - Code for all the above can be found under my github repos: [Link here](https://github.com/ashwathhalemane)
 
-✔️ Github Profile: \
+✔️ Github Profile: 
 - [Link](https://github.com/ashwathhalemane)
 
 ## Technologies Used
