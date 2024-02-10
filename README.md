@@ -50,8 +50,8 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
 - Advanced Object-oriented programming
 - Computational problem solving: Worked on various important data structures from linked list to graphs. 
 - Foundations of Cryptography
-- Foundations of Cybersecurity: Worked on implementing RBAC for healthcare to detect insider threats using Prometheus client
-- Foundations of big data: Worked on IMDB dataset to find associating mining rules, run complex queries to find insights 
+- Foundations of Cybersecurity: Worked on implementing RBAC for healthcare to detect insider threats using Prometheus client.
+- Foundations of big data: Worked on IMDB dataset to find associating mining rules, run complex queries to find insights. 
 - Web Services and Service Oriented Architecture: Preprocess the web service data and run the Service classification and Service Clustering algorithms in Python.
 - Foundations of computer vision: Projects discussed in detail below. 
 - Foundation of computer graphics: Projects discussed in detail below. 
