@@ -85,7 +85,7 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
     - Cartoon filter for instagram.
     - Dice counting program involving unclear images.
   - Worked on a big project using 2240 images of Cotton field cultivation using Deep Learning techniques to classify them under 4 types of irrigation. 
-  - Code for all the above can be found under my github repos: [Link here](https://github.com/ashwathhalemane)
+  - Code for all the above can be found under my github repos: [Link here](https://github.com/ashwathhalemane/CSCI-631-Computer-Vision)
 
 ***
 
