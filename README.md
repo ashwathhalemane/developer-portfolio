@@ -21,7 +21,7 @@ If you created something awesome and want to contribute then feel free to open a
 ## Sections
 
 ✔️ Summary and About me: \
-Computer Science graduate with 4 years experience as Software Engineer working on Security domain specifically in Application security, vulnerability management, penetration testing and identity related projects. Currently working on Low-resource Machine Translation as my capstone project. Interested in backend development, Security Analytics and AI research, Application Security, Software Engineer related roles. \
+Computer Science graduate with 4 years experience as Software Engineer working on Security domain specifically in Application security, vulnerability management, penetration testing and identity related projects. Currently working on Low-resource Machine Translation as my capstone project. Interested in backend development, Security Analytics and AI research, Application Security, Software Engineer related roles. 
 
 
 ✔️ Skills: \
@@ -34,8 +34,8 @@ proficient in GIT, Docker, K8s, Jira etc...
 MS in Computer Science, minor in Data Science, Rochester Institute of Technology, May 2024
 
 ✔️ Work Experience\
-Worked as Application Security Engineer Intern at Infinitus Systems(2X), an AI startup at Silicon Valley, May 2022-Aug 2022, May 2023-Aug 2023
-Worked as Senior Software Engineer at CGI Global, Bangalore, 2017-2021
+- Worked as Application Security Engineer Intern at Infinitus Systems(2X), an AI startup at Silicon Valley, May 2022-Aug 2022, May 2023-Aug 2023
+- Worked as Senior Software Engineer at CGI Global, Bangalore, 2017-2021
 
 ✔️ Feedbacks\
 
@@ -45,10 +45,17 @@ Worked as Senior Software Engineer at CGI Global, Bangalore, 2017-2021
 - Interpolation using Barycentric Coordinates, estimated effort 4 hrs: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment3)
   - Pressing the "1" key will bring up the transformation portion.
   - Pressing the "2" key will bring up the interpolation portion.
-- Tessallation project[Link here](https://ashwathhalemane.github.io/CSCI610-Assignment4/assn4-tessellation.html)
+- Tessallation project: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment4/assn4-tessellation.html)
   - Functionality explained in the project page itself.
-- 
+- Textures project: [Link here](https://ashwathhalemane.github.io/csci610-assn7/assn7-textures.html)
+- Worked on various project in Computer vision ranging from Image manipulation, contrast enhancement, color segmentation and exploration, convolution, mahalanbis distance classification.
+  - Worked on 2 mini-projects involving:
+    - Cartoon filter for instagram.
+    - Dice counting program involving unclear images.
+  - Worked on a big project using 2240 images of Cotton field cultivation using Deep Learning techniques to classify them under 4 types of irrigation. 
+  - Code for all the above can be found under my github repos: [Link here](https://github.com/ashwathhalemane)
 ✔️ Github Profile
+- [Link](https://github.com/ashwathhalemane)
 
 ## Getting Started
 
