@@ -23,6 +23,7 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Summary and About me: \
 Computer Science graduate with 4 years experience as Software Engineer working on Security domain specifically in Application security, vulnerability management, penetration testing and identity related projects. Currently working on Low-resource Machine Translation as my capstone project. Interested in backend development, Security Analytics and AI research, Application Security, Software Engineer related roles. 
 
+***
 
 ✔️ Skills: \
 Skilled in various programming languages like Java, Python, JavaScript, Golang. Worked on various databases like MySQL, PostgreSQL and MongoDB. 
@@ -80,6 +81,9 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
 
 ✔️ Github Profile: 
 - [Link](https://github.com/ashwathhalemane)
+
+✔️ LinkedIn Profile: 
+- [Link](https://www.linkedin.com/in/ashwath-s-halemane/)
 
 ## Technologies Used
 
