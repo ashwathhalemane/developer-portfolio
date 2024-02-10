@@ -33,6 +33,31 @@ proficient in GIT, Docker, K8s, Jira etc...
 ✔️ Education: 
 MS in Computer Science, minor in Data Science, Rochester Institute of Technology, May 2024
 
+✔️ Courses:
+- Foundations of Algorithms: Implemented various algorithms 
+  - Divide-and-conquer algorithms and recurrences
+  - Greedy algorithms
+  - Dynamic programming
+  - Graph algorithms
+    - Traversals
+    - Minimum spanning trees
+    - Single source shortest path
+    - All pairs shortest path
+  - Network flow
+
+ 
+- Theory of Computation
+- Advanced Object-oriented programming
+- Computational problem solving: Worked on various important data structures from linked list to graphs. 
+- Foundations of Cryptography
+- Foundations of Cybersecurity: Worked on implementing RBAC for healthcare to detect insider threats using Prometheus client
+- Foundations of big data: Worked on IMDB dataset to find associating mining rules, run complex queries to find insights 
+- Web Services and Service Oriented Architecture: Preprocess the web service data and run the Service classification and Service Clustering algorithms in Python.
+- Foundations of computer vision: Projects discussed in detail below. 
+- Foundation of computer graphics: Projects discussed in detail below. 
+- Database System Implementation: Worked on H2 database and implemented new feature. 
+- Foundations of Distributed Systems
+
 ✔️ Work Experience: 
 - Worked as Application Security Engineer Intern at Infinitus Systems(2X), an AI startup at Silicon Valley, May 2022-Aug 2022, May 2023-Aug 2023
 - Worked as Senior Software Engineer at CGI Global, Bangalore, 2017-2021
