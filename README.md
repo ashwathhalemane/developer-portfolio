@@ -21,9 +21,19 @@ If you created something awesome and want to contribute then feel free to open a
 ## Sections
 
 ✔️ Summary and About me\
+Computer Science graduate with 4 years experience as Software Engineer working on Security domain specifically in Application security, vulnerability management, penetration testing and identity related projects. Currently working on Low-resource Machine Translation as my capstone project. Interested in backend development, Security Analytics and AI research, Application Security, Software Engineer related roles. 
 ✔️ Skills\
+Skilled in various programming languages like Java, Python, JavaScript, Golang. Worked on various databases like MySQL, PostgreSQL and MongoDB. 
+Computer graphics: openGL
+Computer vision: MATLAB, Deep Learning in CV
+Proficient in GIT, Docker, K8s, Jira etc... 
+
 ✔️ Education\
+MS in Computer Science, minor in Data Science, Rochester Institute of Technology, May 2024
 ✔️ Work Experience\
+Worked as Application Security Engineer Intern at Infinitus Systems(2X), an AI startup at Silicon Valley, May 2022-Aug 2022, May 2023-Aug 2023
+Worked as Senior Software Engineer at CGI Global, Bangalore, 2017-2021
+
 ✔️ Feedbacks\
 ✔️ Projects\
 ✔️ Github Profile
