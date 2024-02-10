@@ -96,8 +96,13 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
 
 ✔️ LinkedIn Profile: 
 - [Link](https://www.linkedin.com/in/ashwath-s-halemane/)
+- The above mentioned LinkedIn won't work if you are not my connection. Better mail me directly. 
 
 ***
+
+✔️ Contact:
+  - [Email](mailto:ah7387@rit.edu) 
+  
 
 ## Technologies Used
 
