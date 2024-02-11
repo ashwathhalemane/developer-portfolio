@@ -28,7 +28,8 @@ A Computer Science graduate with four years of experience as a Software Engineer
 
 ✔️ Skills:
 
-Proficient across multiple programming languages such as Java, Python, JavaScript, and Golang. Experienced with diverse databases including MySQL, PostgreSQL, and MongoDB. Knowledgeable in computer graphics with OpenGL, computer vision using MATLAB, and deep learning applications in CV. Skilled in utilizing GIT, Docker, Kubernetes, Jira, and other related tools. 
+<!-- Proficient across multiple programming languages such as Java, Python, JavaScript, and Golang. Experienced with diverse databases including MySQL, PostgreSQL, and MongoDB. Knowledgeable in computer graphics with OpenGL, computer vision using MATLAB, and deep learning applications in CV. Skilled in utilizing GIT, Docker, Kubernetes, Jira, and other related tools. -->
+Proficient in a wide range of technical skills including programming languages like Java, Python, Golang, and Bash scripting, as well as databases such as PostgreSQL, Redis, and Apache Hadoop. Experienced with graphics libraries such as openGL, MATLAB for computer vision, and deep learning frameworks like Keras and TensorFlow. Hands-on experience with security tools such as Nmap, Nessus, Wireshark, and Metasploit, along with Synk, Invicti, Nikto, and SQLMap. Proficient in utilizing GCP Cloud services, Docker, CircleCI, GIT, Splunk, and API Security practices. 
 
 ***
 
@@ -75,7 +76,8 @@ service data retrieved from ProgrammableWeb. More about this in project section.
   - Foundations of Cryptography
   - Foundations of Cybersecurity: Worked on implementing RBAC for healthcare to detect insider threats using Prometheus client. Research paper on Fuzz testing, OSS security concerns, XS-leaks and   Flow-Limited Authorization for Quorum Replication.  
   - Foundations of Distributed Systems
-- Foundation of computer graphics: Projects discussed in detail below. 
+- Computer Graphics:
+  - Foundation of computer graphics: Projects discussed in detail below. 
 
 
 
