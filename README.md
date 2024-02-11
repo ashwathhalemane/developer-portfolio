@@ -57,15 +57,18 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
   - Introduction of big data: Worked on huge IMDB dataset to find association rule mining, develop complex queries to find insights and more.
     - Engaged in a term project to analyze crime data trends before and after the onset of the COVID-19 pandemic, aiming to uncover valuable insights.  
   - Web Services and Service Oriented Architecture: Preprocess the web service data, execute and evaluate Service classification and Service Clustering algorithms in Python.
-    - The comparison between different modeling approaches including tf-idf, topic-
-modeling, and word embedding.
-    - The comparison between different classification methods including decision tree,
-naïve bayes classifier and nearest neighbor classifier.
-    - The comparison between different modeling approaches including tf-idf, topic-
-modeling, and world embedding.
-    - The comparison between different clustering methods including kmeans and
-other methods such as density-based spatial clustering (DBSCAN).
-
+    - Service Classification: 
+      - The comparison between different modeling approaches including tf-idf, topic-
+  modeling, and word embedding.
+      - The comparison between different classification methods including decision tree,
+  naïve bayes classifier and nearest neighbor classifier.
+    - Service Clustering:
+      - The comparison between different modeling approaches including tf-idf, topic-
+  modeling, and world embedding.
+      - The comparison between different clustering methods including kmeans and
+  other methods such as density-based spatial clustering (DBSCAN).
+    - Worked on a project to parse, store, manage, and analyze the
+service data retrieved from ProgrammableWeb. More about this in project section. 
   - Database System Implementation: Worked on H2 database and implemented a new feature. 
   - Foundations of computer vision: Projects discussed in detail below. 
 - Cybersecurity and Distributed Systems:
@@ -86,6 +89,20 @@ other methods such as density-based spatial clustering (DBSCAN).
 
 ✔️ Projects: 
 - Academic Projects: 
+  - Web Services and Service Oriented Architecture:
+    - Parse, store, manage, and analyze the service data retrieved from ProgrammableWeb.
+      - Design the data structure for MongoDB database, parse the text files and load the data to the
+database. Using this database as the backend, develop a web-based query system that allows the following query:
+        - Return the names of APIs based on different criteria, including updated year,
+protocols, category, rating (such as higher than, equal to, or lower than a given
+rating), and tags.
+        - Return the names of Mashups based on different criteria, including updated year,
+used APIs, and tags.
+        - Given a set of keywords, return the names of APIs if all the keywords can be found
+in the title, summary, or the description of the APIs.
+        - Given a set of keywords, return the names of Mashups if all the keywords can be
+found in the title, summary, or the description of the Mashups.
+    - [Link here](https://github.com/ashwathhalemane/CSCI-724-PA3)
   - Worked on various project in Computer graphics: 
     - Rasterization project estimated effort 2 hrs: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment2) 
       - Press 1 for line test, press 2 for  triangle test, press m for reference.
@@ -101,6 +118,7 @@ other methods such as density-based spatial clustering (DBSCAN).
       - Dice counting program involving unclear images.
     - Worked on a term project using 2240 images of Cotton field cultivation using **Deep Learning** techniques to classify them under 4 types of irrigation. 
     - Code for all the above can be found under my github repos: [Link here](https://github.com/ashwathhalemane/CSCI-631-Computer-Vision)
+
 - Personal Projects:
   - MEAN stack projects including a front-end blogging application in **Angular** can be found [here](https://github.com/ashwathhalemane/Angular-7-Blog-App-).  
   - The backend API corresponding to the aforementioned frontend is available [here](https://github.com/ashwathhalemane/REST-API-Blog-app). Within this project, I've incorporated **Snyk** and **SonarCloud** to identify application security concerns, simulating how security vulnerabilities can emerge in the Software Development Life Cycle (SDLC). As part of this effort, I addressed two minor vulnerabilities: Cross-site Scripting (XSS) and SQL injection. This was achieved by implementing measures such as sanitizing user input using the `escapeHTML` function and ensuring proper data handling by converting `req.params.blogId` to a string before utilizing it in a database query. Commit can be found [here](https://github.com/ashwathhalemane/REST-API-Blog-app/commit/b3f3e5f6b93fa26087ccb23d4f31b043371a92ca).   
