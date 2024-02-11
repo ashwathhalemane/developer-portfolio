@@ -20,9 +20,9 @@ If you created something awesome and want to contribute then feel free to open a
 
 ## Sections
 
-✔️ Summary and About me: 
+✔️ Summary: 
 
-A Computer Science graduate with four years of experience as a Software Engineer, specializing in the Security domain, particularly in Application security, vulnerability management, penetration testing, and identity-related projects. Currently engaged in a capstone project focused on **Low-resource Machine Translation**. I am particularly drawn to roles involving impactful projects in Software Engineering, Full-stack Development, Backend Development, Security Analytics, AI research, and Application Security. 
+A Computer Science graduate with four years of experience as a Software Engineer, specializing in the Security domain, particularly in Application security, vulnerability management, penetration testing, and identity-related projects. Currently engaged in a capstone project focused on **Low-resource Machine Translation**. I am particularly drawn to roles involving impactful projects in Software Engineering, Full-stack Development, Backend Development, Security Analytics & AI research, and Application Security. 
 
 ***
 
@@ -39,29 +39,42 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
 ***
 
 ✔️ Courses:
-- Foundations of Algorithms: Implem ented various algorithms 
-  - Divide-and-conquer algorithms and recurrences
-  - Greedy algorithms
-  - Dynamic programming
-  - Graph algorithms
-    - Traversals
-    - Minimum spanning trees
-    - Single source shortest path
-    - All pairs shortest path
-  - Network flow
+- Data Structures and Algorithms: 
+  - Foundations of Algorithms: Implemented various algorithms in the following topics: 
+    - Divide-and-conquer algorithms and recurrences
+    - Greedy algorithms
+    - Dynamic programming
+    - Graph algorithms
+      - Traversals
+      - Minimum spanning trees
+      - Single source shortest path
+      - All pairs shortest path
+    - Network flow
+  - Theory of Computation
+  - Advanced Object-oriented programming
+  - Computational problem solving: Worked on various important data structures from linked list to graphs. 
+- Data Science: 
+  - Introduction of big data: Worked on huge IMDB dataset to find association rule mining, develop complex queries to find insights and more.
+    - Engaged in a term project to analyze crime data trends before and after the onset of the COVID-19 pandemic, aiming to uncover valuable insights.  
+  - Web Services and Service Oriented Architecture: Preprocess the web service data, execute and evaluate Service classification and Service Clustering algorithms in Python.
+    - The comparison between different modeling approaches including tf-idf, topic-
+modeling, and word embedding.
+    - The comparison between different classification methods including decision tree,
+naïve bayes classifier and nearest neighbor classifier.
+    - The comparison between different modeling approaches including tf-idf, topic-
+modeling, and world embedding.
+    - The comparison between different clustering methods including kmeans and
+other methods such as density-based spatial clustering (DBSCAN).
 
- 
-- Theory of Computation
-- Advanced Object-oriented programming
-- Computational problem solving: Worked on various important data structures from linked list to graphs. 
-- Foundations of Cryptography
-- Foundations of Cybersecurity: Worked on implementing RBAC for healthcare to detect insider threats using Prometheus client.
-- Introduction of big data: Worked on huge IMDB dataset to find association rule mining, develop complex queries to find insights. 
-- Web Services and Service Oriented Architecture: Preprocess the web service data and run the Service classification and Service Clustering algorithms in Python.
-- Foundations of computer vision: Projects discussed in detail below. 
+  - Database System Implementation: Worked on H2 database and implemented a new feature. 
+  - Foundations of computer vision: Projects discussed in detail below. 
+- Cybersecurity and Distributed Systems:
+  - Foundations of Cryptography
+  - Foundations of Cybersecurity: Worked on implementing RBAC for healthcare to detect insider threats using Prometheus client. Research paper on Fuzz testing, OSS security concerns, XS-leaks and   Flow-Limited Authorization for Quorum Replication.  
+  - Foundations of Distributed Systems
 - Foundation of computer graphics: Projects discussed in detail below. 
-- Database System Implementation: Worked on H2 database and implemented a new feature. 
-- Foundations of Distributed Systems
+
+
 
 ***
 
@@ -101,6 +114,11 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
 
 ***
 
+✔️ Codechef profile:
+- [Link](https://www.codechef.com/users/ashwa)
+
+***
+
 ✔️ LinkedIn Profile: 
 - [Link](https://www.linkedin.com/in/ashwath-s-halemane/)
 - The above mentioned LinkedIn won't work if you are not my connection. Better mail me directly. 
@@ -109,6 +127,10 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
 
 ✔️ Contact:
   - [Email](mailto:ah7387@rit.edu) 
+
+***
+
+
   
 
 ## Technologies Used
