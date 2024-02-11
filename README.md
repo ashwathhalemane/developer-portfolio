@@ -22,16 +22,13 @@ If you created something awesome and want to contribute then feel free to open a
 
 ✔️ Summary and About me: 
 
-Computer Science graduate with 4 years experience as Software Engineer working primarily on Security domain specifically in Application security, vulnerability management, penetration testing and identity related projects. Currently working on **Low-resource Machine Translation** as my capstone project. Interested in Software Engineer, Full-stack Engineer, Backend development, Security Analytics and AI research and Application Security related roles. 
+A Computer Science graduate with four years of experience as a Software Engineer, specializing in the Security domain, particularly in Application security, vulnerability management, penetration testing, and identity-related projects. Currently engaged in a capstone project focused on **Low-resource Machine Translation**. I am particularly drawn to roles involving impactful projects in Software Engineering, Full-stack Development, Backend Development, Security Analytics, AI research, and Application Security. 
 
 ***
 
 ✔️ Skills:
 
-Skilled in various programming languages like Java, Python, JavaScript, Golang. Worked on various databases like MySQL, PostgreSQL and MongoDB. 
-Computer graphics openGL,
-Computer vision: MATLAB, Deep Learning in CV, 
-proficient in GIT, Docker, K8s, Jira etc... 
+Proficient across multiple programming languages such as Java, Python, JavaScript, and Golang. Experienced with diverse databases including MySQL, PostgreSQL, and MongoDB. Knowledgeable in computer graphics with OpenGL, computer vision using MATLAB, and deep learning applications in CV. Skilled in utilizing GIT, Docker, Kubernetes, Jira, and other related tools. 
 
 ***
 
@@ -42,7 +39,7 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
 ***
 
 ✔️ Courses:
-- Foundations of Algorithms: Implemented various algorithms 
+- Foundations of Algorithms: Implem ented various algorithms 
   - Divide-and-conquer algorithms and recurrences
   - Greedy algorithms
   - Dynamic programming
@@ -59,11 +56,11 @@ MS in Computer Science, minor in Data Science, Rochester Institute of Technology
 - Computational problem solving: Worked on various important data structures from linked list to graphs. 
 - Foundations of Cryptography
 - Foundations of Cybersecurity: Worked on implementing RBAC for healthcare to detect insider threats using Prometheus client.
-- Foundations of big data: Worked on IMDB dataset to find associating mining rules, run complex queries to find insights. 
+- Introduction of big data: Worked on huge IMDB dataset to find association rule mining, develop complex queries to find insights. 
 - Web Services and Service Oriented Architecture: Preprocess the web service data and run the Service classification and Service Clustering algorithms in Python.
 - Foundations of computer vision: Projects discussed in detail below. 
 - Foundation of computer graphics: Projects discussed in detail below. 
-- Database System Implementation: Worked on H2 database and implemented new feature. 
+- Database System Implementation: Worked on H2 database and implemented a new feature. 
 - Foundations of Distributed Systems
 
 ***
