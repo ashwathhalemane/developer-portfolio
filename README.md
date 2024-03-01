@@ -22,14 +22,14 @@ If you created something awesome and want to contribute then feel free to open a
 
 ✔️ Summary: 
 
-A Computer Science graduate with four years of experience as a Software Engineer, specializing in the Security domain, particularly in Application security, vulnerability management, penetration testing, and identity-related projects. Currently engaged in a capstone project focused on **Low-resource Machine Translation**. I am particularly drawn to roles involving impactful projects in Software Engineering, Full-stack Development, Backend Development, Security Analytics & AI research, and Application Security. 
+A Computer Science graduate with four years of experience as a **Software Engineer**, specializing in the **Security domain**, particularly in Application security, vulnerability management, penetration testing, and identity-related projects. Currently engaged in a capstone project focused on **Low-resource Machine Translation**. I am particularly drawn to roles involving impactful projects in Software Engineering, Full-stack Development, Backend Development, Security Analytics & AI research, and Application Security. 
 
 ***
 
 ✔️ Skills:
 
 <!-- Proficient across multiple programming languages such as Java, Python, JavaScript, and Golang. Experienced with diverse databases including MySQL, PostgreSQL, and MongoDB. Knowledgeable in computer graphics with OpenGL, computer vision using MATLAB, and deep learning applications in CV. Skilled in utilizing GIT, Docker, Kubernetes, Jira, and other related tools. -->
-Proficient in a wide range of technical skills including programming languages like Java, Python, Golang, and Bash scripting, as well as databases such as PostgreSQL, Redis, and Apache Hadoop. Experienced with graphics libraries such as openGL, MATLAB for computer vision, and deep learning frameworks like Keras and TensorFlow. Hands-on experience with security tools such as Nmap, Nessus, Wireshark, and Metasploit, along with Synk, Invicti, Nikto, and SQLMap. Proficient in utilizing GCP Cloud services, Docker, CircleCI, GIT, Splunk, and API Security practices. 
+Proficient in a wide range of technical skills including programming languages like Java, **Python**, Golang, and Bash scripting, as well as databases such as **PostgreSQL**, Redis, and Apache Hadoop. Experienced with graphics libraries such as openGL, MATLAB for computer vision, and **Deep Learning** frameworks like Keras and TensorFlow. Hands-on experience with **security tools** such as Nmap, Nessus, Wireshark, and Metasploit, along with Synk, Invicti, Nikto, and SQLMap. Proficient in utilizing GCP Cloud services, Docker, CircleCI, GIT, Splunk, and API Security practices. 
 
 ***
 
@@ -84,14 +84,14 @@ service data retrieved from ProgrammableWeb. More about this in project section.
 ***
 
 ✔️ Work Experience: 
-- Worked as **Application Security Engineer Intern** at Infinitus Systems(2X), **Silicon Valley based AI startup company**, May 2022-Aug 2022, May 2023-Aug 2023
-- Worked as Senior Software Engineer at CGI Global, Bangalore, 2017-2021
+- Worked as **Application Security Engineer Intern** at Infinitus Systems(2X), **Silicon Valley based AI startup company**, May 2022-Aug 2022, May 2023-Aug 2023, San Francisco
+- Worked as **Senior Software Engineer** at CGI Global, Bangalore, 2017-2021
 
 ***
 
 ✔️ Projects: 
 - Academic Projects: 
-  - Web Services and Service Oriented Architecture:
+  - **Web Services and Service Oriented Architecture**:
     - Parse, store, manage, and analyze the service data retrieved from ProgrammableWeb.
       - Design the data structure for MongoDB database, parse the text files and load the data to the
 database. Using this database as the backend, develop a web-based query system that allows the following query:
@@ -105,7 +105,7 @@ in the title, summary, or the description of the APIs.
         - Given a set of keywords, return the names of Mashups if all the keywords can be
 found in the title, summary, or the description of the Mashups.
     - [Link here](https://github.com/ashwathhalemane/CSCI-724-PA3)
-  - Worked on various project in Computer graphics: 
+  - Worked on various project in **Computer Graphics**: 
     - Rasterization project estimated effort 2 hrs: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment2) 
       - Press 1 for line test, press 2 for  triangle test, press m for reference.
     - Interpolation using Barycentric Coordinates, estimated effort 4 hrs: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment3)
@@ -114,7 +114,7 @@ found in the title, summary, or the description of the Mashups.
     - Tessallation project: [Link here](https://ashwathhalemane.github.io/CSCI610-Assignment4/assn4-tessellation.html)
       - Functionality explained in the project page itself.
     - Textures project: [Link here](https://ashwathhalemane.github.io/csci610-assn7/assn7-textures.html)
-  - Worked on various project in Computer vision ranging from Image manipulation, contrast enhancement, color segmentation and exploration, convolution, mahalanbis distance classification.
+  - Worked on various project in **Computer Vision** ranging from Image manipulation, contrast enhancement, color segmentation and exploration, convolution, mahalanbis distance classification.
     - Worked on 2 mini-projects involving:
       - Cartoon filter for instagram.
       - Dice counting program involving unclear images.
@@ -122,7 +122,7 @@ found in the title, summary, or the description of the Mashups.
     - Code for all the above can be found under my github repos: [Link here](https://github.com/ashwathhalemane/CSCI-631-Computer-Vision)
 
 - Personal Projects:
-  - MEAN stack projects including a front-end blogging application in **Angular** can be found [here](https://github.com/ashwathhalemane/Angular-7-Blog-App-).  
+  - **MEAN stack** projects including a front-end blogging application in **Angular** can be found [here](https://github.com/ashwathhalemane/Angular-7-Blog-App-).  
   - The backend API corresponding to the aforementioned frontend is available [here](https://github.com/ashwathhalemane/REST-API-Blog-app). Within this project, I've incorporated **Snyk** and **SonarCloud** to identify application security concerns, simulating how security vulnerabilities can emerge in the Software Development Life Cycle (SDLC). As part of this effort, I addressed two minor vulnerabilities: Cross-site Scripting (XSS) and SQL injection. This was achieved by implementing measures such as sanitizing user input using the `escapeHTML` function and ensuring proper data handling by converting `req.params.blogId` to a string before utilizing it in a database query. Commit can be found [here](https://github.com/ashwathhalemane/REST-API-Blog-app/commit/b3f3e5f6b93fa26087ccb23d4f31b043371a92ca).   
   - You can find some of my exploration in the realm of **Cybersecurity** [here](https://github.com/ashwathhalemane/hacking-exercise), where I've engaged with diverse Capture The Flag (CTF) competitions, hacking challenges from platforms like HackTheBox, CTFlearn, rootme and developed custom tools tailored for these challenges.
   - In the past, I was involved in developing an **Android application** for a friend's college business, serving as an online catalog. You can explore it [here](https://play.google.com/store/apps/details?id=com.tattooswag.ashwath.newtattooswag).
