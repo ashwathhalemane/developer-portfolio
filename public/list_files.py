@@ -1,44 +1,45 @@
-# import requests
-# import mysql.connector
-# import pandas as pd
-
+# vercada mock test on codesignal 
 # initializations goes here
 import os
 import re
-# we can later pass "/root/data"
+
+# current directory of files
 current_directory = "/root/data"
 # set to store unique ips when found
 unique_ips = set()
-list_of_files = []
-# TO-DO: iterate over the directory base path recursively to list all the files:
 
-# def check_ip_validity(ip_addree):
+# list to store files with their directory
+list_of_files = []
+
 def list_all_files(directory):
-    unique_ips = set()
-    for root, dirs, files in os.walk(directory):
     
+    # using os.walk to go over directories and files
+    for root, dirs, files in os.walk(directory):
         for file in files:
-            # print(os.path.join(root, file))
             list_of_files.append(os.path.join(root, file))
+            # read each file and process for ip address
             with open(os.path.join(root, file)) as f:
+                # get the content of the file
                 content = f.read()
-                regex_pattern = r"[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}"
-                
+                # regex pattern to filter valid ip in format: x.x.x.x where x is 0-255 inclusive
+                regex_pattern = r"\b(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\b"
+                # get the list of valid ips from regex pattern matching, room for improvement here in regex pattern for large texts
                 list_of_ips = re.findall(regex_pattern, content)
-                # print(list_of_ips)
+                
+                # add ips to set to filter only the unique ones
                 for each_ip in list_of_ips:
                     unique_ips.add(each_ip)
-
+    # converting set to list for easier processing 
     return list(unique_ips)
-                
-all_valid_ips = list_all_files(current_directory)
-
-    
 
 def lexicographically_sort(strings):
     return sorted(strings)
 
-sorted_strings = lexicographically_sort(all_valid_ips)
+# returns all valid ips in list format
+all_valid_ips = list_all_files(current_directory)
 
-for each_valid_sorted_ip in sorted_strings:
+# lexicographically sort using simple sorted build-in function in python 
+sorted_ips = lexicographically_sort(all_valid_ips)
+
+for each_valid_sorted_ip in sorted_ips:
     print(each_valid_sorted_ip)
