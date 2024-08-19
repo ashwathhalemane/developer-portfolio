@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Ashwath's portfolio 👋</h1>
-<a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a>
+<!-- <a href="https://github.com/1hanzla100/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/developer-portfolio"></a><a href="https://github.com/1hanzla100/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/developer-portfolio"></a> <a href="https://github.com/1hanzla100/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/developer-portfolio"></a> -->
 
-## Portfolio built with Next.js and bootstrap to showcase work and skills as a Computer Science graduate.
+<!-- ## Portfolio built with Next.js and bootstrap to showcase work and skills as a Computer Science graduate. -->
 
 <!-- <p align="center">
   <kbd>
@@ -22,7 +22,7 @@ If you created something awesome and want to contribute then feel free to open a
 
 ✔️ Summary: 
 
-A Computer Science graduate with four years of experience as a **Software Engineer**, specializing in the **Security domain**, particularly in Application security, vulnerability management, penetration testing, and identity-related projects. Currently engaged in a capstone project focused on **Low-resource Machine Translation**. I am particularly drawn to roles involving impactful projects in Software Engineering, Full-stack Development, Backend Development, Security Analytics & AI research, and Application Security. 
+A Computer Science graduate with four years of experience as a **Software Engineer**, specializing in the **Security domain**, particularly in Application security, vulnerability management, penetration testing, and identity-related projects. I am particularly drawn to roles involving impactful projects in Software Engineering, Full-stack Development, Backend Development, Security Analytics & AI research, and Application Security. 
 
 ***
 
@@ -74,7 +74,7 @@ service data retrieved from ProgrammableWeb. More about this in project section.
   - Foundations of computer vision: Projects discussed in detail below. 
 - Cybersecurity and Distributed Systems:
   - Foundations of Cryptography
-  - Foundations of Cybersecurity: Worked on implementing RBAC for healthcare to detect insider threats using Prometheus client. Research paper on Fuzz testing, OSS security concerns, XS-leaks and   Flow-Limited Authorization for Quorum Replication.  
+  - Foundations of Cybersecurity: Worked on implementing RBAC for healthcare to detect insider threats using Prometheus client. Research survey paper on Fuzz testing, OSS security, XS-leaks and Flow-Limited Authorization for Quorum Replication.  
   - Foundations of Distributed Systems
 - Computer Graphics:
   - Foundation of computer graphics: Projects discussed in detail below. 
@@ -153,7 +153,7 @@ found in the title, summary, or the description of the Mashups.
 
   
 
-## Technologies Used
+<!-- ## Technologies Used
 
 -   [Next.js](https://nextjs.org/)
 -   [axios](https://www.npmjs.com/package/axios)
@@ -162,4 +162,4 @@ found in the title, summary, or the description of the Mashups.
 -   [react-lottie](https://www.npmjs.com/package/react-lottie)
 -   [react-easy-emoji](https://github.com/appfigures/react-easy-emoji)
 -   [react-headroom](https://github.com/KyleAMathews/react-headroom)
--   [color-thief](https://github.com/lokesh/color-thief)
+-   [color-thief](https://github.com/lokesh/color-thief) -->
